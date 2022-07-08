@@ -1,7 +1,7 @@
 ```javascript
 const profile = {
   username: 'bad',
-  learning: 'Python',
+  learning: 'Python'
 }
 
 Hello everyone!
