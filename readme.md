@@ -4,4 +4,4 @@ const profile = {
   learning: 'Python',
 }```
 
-> **Hello everyone!**
+<hr>Hello everyone!</hr>
