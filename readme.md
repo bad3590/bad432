@@ -5,4 +5,6 @@ const profile = {
 }
 ```
 
-<b>Hello everyone!</b>
+<h1 align="center">
+  <b>Hello everyone!</b>
+</h1>
