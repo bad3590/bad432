@@ -4,4 +4,6 @@ const profile = {
   learning: 'Python'
 }
 
-Hello everyone!
+<h1 align="center">
+  <b>Hello everyone!</b>
+</h1>
