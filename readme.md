@@ -5,4 +5,4 @@ const profile = {
 }
 ```
 
-Hello everyone!
+<b>Hello everyone!</b>
